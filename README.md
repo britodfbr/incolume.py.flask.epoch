@@ -1,2 +1,2 @@
 # incolume.py.flask.epoch
-Epoch timestamp
+API FLASK return Epoch timestamp
